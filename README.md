@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mark B. Wagner 👋</h1>  
-<h3 align="center">Aspiring IT Engineering Student | Passionate about 3D Printing, Technology, and Innovation</h3>  
+<h3 align="center">IT Engineering Student | Passionate about 3D Printing, Technology, and Innovation</h3>  
 
 
 ---
