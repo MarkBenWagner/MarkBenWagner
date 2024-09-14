@@ -1,12 +1,12 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"  # execute every 12 hours
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
@@ -16,13 +16,20 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v3
+      
+      - name: Create output branch if it does not exist
+        run: |
+          if ! git show-ref --verify --quiet refs/heads/output; then
+            git checkout -b output
+            git push origin output
+          fi
 
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: markbenwagner
+          github_user_name: ${{ github.actor }}
           outputs: dist/snake.svg?palette=github-dark
 
       - name: Push snake.svg to the output branch
