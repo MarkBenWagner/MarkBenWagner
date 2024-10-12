@@ -14,7 +14,7 @@
 - **Co-Founder, Stratumax** (Feb 2024 - Present)  
   Spearheading the creation of a 3D printing marketplace, overseeing both frontend and backend development. Successfully secured competition wins and grants for the startup.
 
-- **Informatics Teacher, Logiscool Ltd.** (Feb 2024 - Sep 2024)  
+- **Informatics Teacher, Logiscool Ltd.** (Feb 2024 - Present)  
   Teaching foundational and advanced informatics, including block-based programming, Python, and AI to students, fostering interest in technology.
 
 - **Frontend Developer, SEE WISE & LIVE HAPPY j.d.o.o** (Dec 2023 - Jan 2024)  
