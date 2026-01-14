@@ -1,19 +1,26 @@
 name: Generate Datas
+
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"  # JAVÍTVA: A '*' helyett '0' kell az elejére, különben percenként futna abban az órában!
   workflow_dispatch:
+
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    
+    permissions: # Fontos engedély, hogy tudjon push-olni az output branchre
+      contents: write
+
     steps:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-with:
+        with: # JAVÍTVA: Ennek pontosan a 'uses' alá kell kerülnie
           github_user_name: MarkBenWagner
           svg_out_path: dist/github-contribution-grid-snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
