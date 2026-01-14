@@ -5,7 +5,8 @@
 <div align="center">
   <a href="https://github.com/MarkBenWagner">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a><a href="https://linkedin.com/in/mark-b-wagner-50568b245/">
+  </a>
+  <a href="https://linkedin.com/in/mark-b-wagner-50568b245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -20,50 +21,18 @@ I am a passionate developer focusing on **Artificial Intelligence** and **Innova
 - 🌱 I’m currently learning: **Deep Learning, NLP, German, English**
 - 📰 Reading about: **LLMs, Computer Vision, AI Ethics, Tech, Business**
 - ⚡ Fun fact: I commit code every day to build a habit!
-- 🌶️ superpower: Turns caffeine into code ☕
-- name: "Mark Ben Wagner"
+- 🌶️ Superpower: Turns caffeine into code ☕
+
+```yaml
+user_profile:
+  name: "Mark Ben Wagner"
   role: "Computer Engineering Student"
   location: "Budapest, Hungary"
-
-```mermaid ... 
-timeline
-    title My Journey to AI Innovation
-    2022
-        : High School Diploma
-        : Codecool Frontend Course
-    2023
-        : Started BSc @ Obuda Uni
-        : Computer Engineering (AI Focus)
-    2024 - 2025
-        : 💼 Co-Founder @ Stratumax (🏆 Won 2 Startup Competitions)
-        : 👨‍🏫 Logiscool Teacher (Python, AI, Block-based)
-        : Web development - 15 websites
-    2026
-        : Advanced Deep Learning Studies
-        : Preparing BSc Thesis
-    2027
-        : 🎓 BSc Graduation (Jan)
-        : 🇩🇪 Move to Germany (MSc Start Oct)
-    2028 - 2029
-        : AI Research Intern (Big Tech)
-        : MSc Graduation
-    Future
-        : Lead AI Researcher
-        : Launching Own AI Unicorn 🚀
+  current_focus: "Mastering AI & Deep Learning"
 ```
 
-### 🎯 Weekly Targets & Goals
-
-| Category | Target |  |
-| :--- | :--- | :---: |
-| **Reading** | Read 1 Book / Week | 📚 |
-| **Coding** | Daily Commit Streak | 🔥 |
-| **Sport** | Run a Marathon | 🏃 |
-| **Language** | German B2 Exam | 🇩🇪 |
-| **Language** | English C2 Exam | 🇬🇧 |
-
-
-<div align="left">
+## 🛠️ Tech Stack & Tools
+  <div align="left">
 
   **🧠 AI & Data Science**<br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -103,14 +72,44 @@ timeline
 </div>
 
 
+```mermaid 
+timeline
+    title My Journey to AI Innovation
+    2022
+        : High School Diploma
+        : Codecool Frontend Course
+    2023
+        : Started BSc @ Obuda Uni
+        : Computer Engineering (AI Focus)
+    2024 - 2025
+        : 💼 Co-Founder @ Stratumax (🏆 Won 2 Startup Competitions)
+        : 👨‍🏫 Logiscool Teacher (Python, AI, Block-based)
+        : Web development - 15 websites
+    2026
+        : Advanced Deep Learning Studies
+        : Preparing BSc Thesis
+    2027
+        : 🎓 BSc Graduation (Jan)
+        : 🇩🇪 Move to Germany (MSc Start Oct)
+    2028 - 2029
+        : AI Research Intern (Big Tech)
+        : MSc Graduation
+    Future
+        : Lead AI Researcher
+        : Launching Own AI Unicorn 🚀
+```
+
+
 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkBenWagner&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
 
 
-### 🐍 Contribution History
+### Contribution History
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkBenWagner/MarkBenWagner/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkBenWagner/MarkBenWagner/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarkBenWagner/MarkBenWagner/output/github-contribution-grid-snake.svg">
 </picture>
+
+
