@@ -1,141 +1,110 @@
-<h1 align="center">Hi, I'm Mark B. Wagner 👋</h1>  
-<h3 align="center">IT Engineering Student | Passionate about 3D Printing, Technology, and Innovation</h3>  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=AI+%26+Innovation+Enthusiast;Python+Developer;Targeting+MSc+in+AI+(Germany);Learning+English+%26+Deutsch+Daily" alt="Typing SVG" />
+</div>
 
-
----
-
-### 🔭 Current Project:  
-**[Stratumax](https://stratumax.com)** - Building a 3D printing marketplace platform, leading both frontend and backend development.
-
----
-
-### 💼 Professional Experience:
-
-- **Co-Founder, Stratumax** (Feb 2024 - Present)  
-  Spearheading the creation of a 3D printing marketplace, overseeing both frontend and backend development. Successfully secured competition wins and grants for the startup.
-
-- **Informatics Teacher, Logiscool Ltd.** (Feb 2024 - Present)  
-  Teaching foundational and advanced informatics, including block-based programming, Python, and AI to students, fostering interest in technology.
-
-- **Frontend Developer, SEE WISE & LIVE HAPPY j.d.o.o** (Dec 2023 - Jan 2024)  
-  Developed a WordPress site with integrated booking and dynamic blog features, improving user experience and management efficiency.
-
----
-
-### 💡 Skills and Tools:
-
-#### Frontend Development
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<div align="center">
+  <a href="https://github.com/MarkBenWagner">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a><a href="https://linkedin.com/in/mark-b-wagner-50568b245/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.wordpress.org" target="_blank" rel="noreferrer">
-    <img src="https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png" alt="wordpress" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-#### Backend Development
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
+<br/>
 
-#### Databases
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
+### 🚀 About Me
 
-#### DevOps & Tools
-<p align="left">
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-</p>
+I am a passionate developer focusing on **Artificial Intelligence** and **Innovation**. I am currently on a journey to master Python for AI/ML and preparing for my Master's studies in Germany. 🇩🇪
 
-#### Scripting & Other Tools
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
+- 🔭 I’m currently working on: **Daily Python AI Projects & Automation**
+- 🌱 I’m currently learning: **Deep Learning, NLP, German, English**
+- 📰 Reading about: **LLMs, Computer Vision, AI Ethics, Tech, Business**
+- ⚡ Fun fact: I commit code every day to build a habit!
+- 🌶️ superpower: Turns caffeine into code ☕
+- name: "Mark Ben Wagner"
+  role: "Computer Engineering Student"
+  location: "Budapest, Hungary"
 
----
+```mermaid ... 
+timeline
+    title My Journey to AI Innovation
+    2022
+        : High School Diploma
+        : Codecool Frontend Course
+    2023
+        : Started BSc @ Obuda Uni
+        : Computer Engineering (AI Focus)
+    2024 - 2025
+        : 💼 Co-Founder @ Stratumax (🏆 Won 2 Startup Competitions)
+        : 👨‍🏫 Logiscool Teacher (Python, AI, Block-based)
+        : Web development - 15 websites
+    2026
+        : Advanced Deep Learning Studies
+        : Preparing BSc Thesis
+    2027
+        : 🎓 BSc Graduation (Jan)
+        : 🇩🇪 Move to Germany (MSc Start Oct)
+    2028 - 2029
+        : AI Research Intern (Big Tech)
+        : MSc Graduation
+    Future
+        : Lead AI Researcher
+        : Launching Own AI Unicorn 🚀
+```
 
-### 📚 Education:
+### 🎯 Weekly Targets & Goals
 
-- **BSc in Computer Engineering** - Obuda University, John von Neumann Faculty of Informatics (Sep 2023 - Ongoing)
-- **Frontend Development** - Codecool Online (Dec 2022 - Feb 2023)
-- **High School Diploma** - Veres Péter High School, Békásmegyer (Sep 2018 - Jun 2022)
+| Category | Target |  |
+| :--- | :--- | :---: |
+| **Reading** | Read 1 Book / Week | 📚 |
+| **Coding** | Daily Commit Streak | 🔥 |
+| **Sport** | Run a Marathon | 🏃 |
+| **Language** | German B2 Exam | 🇩🇪 |
+| **Language** | English C2 Exam | 🇬🇧 |
 
----
 
-### 🌱 Interests:
+<div align="left">
 
-- 3D Printing
-- Artificial Intelligence
-- Robotics
-- Startups
-- Crypto
-- Technology
+  **🧠 AI & Data Science**<br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
----
+  <br/>
 
-### 📞 Connect with Me:
+  **💻 Programming Languages**<br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-- LinkedIn: [Mark Wagner](https://linkedin.com/in/mark-b-wagner-50568b245/)
-- Discord: markbwagner
+  <br/>
 
+  **🎨 Web & Design**<br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
+
+  <br/>
+
+  **⚙️ Tools & DevOps**<br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+
+</div>
+
+
+📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkBenWagner&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
+
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkBenWagner/MarkBenWagner/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkBenWagner/MarkBenWagner/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarkBenWagner/MarkBenWagner/output/github-contribution-grid-snake.svg"> </picture> </div>
