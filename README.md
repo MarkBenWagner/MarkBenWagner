@@ -31,7 +31,7 @@ user_profile:
   current_focus: "Mastering AI & Deep Learning"
 ```
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
   <div align="left">
 
   **🧠 AI & Data Science**<br/>
@@ -101,7 +101,14 @@ timeline
 
 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkBenWagner&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkBenWagner&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkBenWagner&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+<br />
 
 ### Contribution History
 
