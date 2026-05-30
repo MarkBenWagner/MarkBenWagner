@@ -6,7 +6,7 @@
 
 ### About Me &nbsp; <img src="https://img.shields.io/badge/Open_To_Work-ff5454?style=for-the-badge" alt="Open To Work" align="center" />
 
-I am a **Computer Science Engineering student** at Óbuda University (ÓE-NIK), currently in my 6th semester. I am a versatile software developer with a strong foundation in building scalable web platforms, now specializing in **Artificial Intelligence and Robotics**.
+I am a **Computer Science Engineering student** at Óbuda University (ÓE-NIK), currently in my 6th semester. Now specializing in **Artificial Intelligence and Robotics**.
 
 - **Currently working on:** Deep Learning models, ROS 2 Integrations, and preparing for my final exams in Computer Architectures and Big Data.
 - **Diving deep into:** Modern C++ and Computer Vision (OpenCV, YOLO).
